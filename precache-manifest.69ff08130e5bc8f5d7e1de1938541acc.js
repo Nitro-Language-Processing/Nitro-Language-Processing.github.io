@@ -1,31 +1,35 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e183845b627614fb0a10229bbb255fda",
+    "revision": "8a668a42f3de752a974336062cc95de1",
     "url": "/index.html"
   },
   {
-    "revision": "9a0f521cd4544714325e",
+    "revision": "6b3773fc78a8a5fca798",
     "url": "/static/css/2.1eb7945e.chunk.css"
   },
   {
-    "revision": "a80809a50d548c00911a",
-    "url": "/static/css/main.cc04bd9c.chunk.css"
+    "revision": "f44bd5b98bdca0ee5acc",
+    "url": "/static/css/main.3da143d1.chunk.css"
   },
   {
-    "revision": "9a0f521cd4544714325e",
-    "url": "/static/js/2.43ba7000.chunk.js"
+    "revision": "6b3773fc78a8a5fca798",
+    "url": "/static/js/2.0922b4f1.chunk.js"
   },
   {
-    "revision": "ef2a999c9f66d1ede5a4",
-    "url": "/static/js/3.5ff1fa56.chunk.js"
+    "revision": "d1d21b7024ef5b7ae9b0",
+    "url": "/static/js/3.0f18a581.chunk.js"
   },
   {
-    "revision": "a80809a50d548c00911a",
-    "url": "/static/js/main.fe6d6f9b.chunk.js"
+    "revision": "f44bd5b98bdca0ee5acc",
+    "url": "/static/js/main.c4a87d9f.chunk.js"
   },
   {
-    "revision": "74bb824b62c7f1a864cc",
-    "url": "/static/js/runtime~main.accc0031.js"
+    "revision": "cc2f07c96659b2dcad53",
+    "url": "/static/js/runtime~main.730004ce.js"
+  },
+  {
+    "revision": "9e7098b1b14fb95d07292e4651ba0111",
+    "url": "/static/media/Alex.9e7098b1.jpg"
   },
   {
     "revision": "6162f3fea173174b35d77ff075a8ee14",
@@ -38,6 +42,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "cfda5ae90056915ac55a4978be5df952",
     "url": "/static/media/Luci.cfda5ae9.jpg"
+  },
+  {
+    "revision": "8ead6f208a9727d9e5d8cb289c87fe92",
+    "url": "/static/media/Miruna-F.8ead6f20.jpg"
   },
   {
     "revision": "9d108b455fb8d0e9d1bb07bb97c99fd0",
@@ -78,10 +86,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f078499de6c6c0fad27521ae4f92c931",
     "url": "/static/media/logo1.f078499d.png"
-  },
-  {
-    "revision": "0588b4cd0c1d49d4398493f1267225b3",
-    "url": "/static/media/logo2.0588b4cd.png"
   },
   {
     "revision": "c01829df421f93bdac75a7d11b0a67e6",
