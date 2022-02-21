@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6cd09185.chunk.css",
+    "main.js": "/static/js/main.11450593.chunk.js",
+    "main.js.map": "/static/js/main.11450593.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.4024eb39.js",
+    "runtime~main.js.map": "/static/js/runtime~main.4024eb39.js.map",
+    "static/css/2.1eb7945e.chunk.css": "/static/css/2.1eb7945e.chunk.css",
+    "static/js/2.123cff1a.chunk.js": "/static/js/2.123cff1a.chunk.js",
+    "static/js/2.123cff1a.chunk.js.map": "/static/js/2.123cff1a.chunk.js.map",
+    "static/js/3.182d6258.chunk.js": "/static/js/3.182d6258.chunk.js",
+    "static/js/3.182d6258.chunk.js.map": "/static/js/3.182d6258.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.ea88ae515f39a288266d64e5f069f09f.js": "/precache-manifest.ea88ae515f39a288266d64e5f069f09f.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.1eb7945e.chunk.css.map": "/static/css/2.1eb7945e.chunk.css.map",
+    "static/css/main.6cd09185.chunk.css.map": "/static/css/main.6cd09185.chunk.css.map",
+    "static/media/App.css": "/static/media/bg1.e09ebc4a.jpg",
+    "static/media/Home.css": "/static/media/header.bed3ac3e.png",
+    "static/media/index.css": "/static/media/nunito-sans-vietnamese-400-normal.02660d0f.woff2",
+    "static/media/logo2.png": "/static/media/logo2.0588b4cd.png"
+  }
+}
