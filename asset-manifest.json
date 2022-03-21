@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.8ff98860.chunk.css",
+    "main.css": "/static/css/main.2adcf404.chunk.css",
     "main.js": "/static/js/main.73e8c46c.chunk.js",
     "main.js.map": "/static/js/main.73e8c46c.chunk.js.map",
     "runtime~main.js": "/static/js/runtime~main.c10e9139.js",
@@ -11,10 +11,10 @@
     "static/js/3.126f02ed.chunk.js": "/static/js/3.126f02ed.chunk.js",
     "static/js/3.126f02ed.chunk.js.map": "/static/js/3.126f02ed.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.5f0262686ef2530a0c038a557b431d76.js": "/precache-manifest.5f0262686ef2530a0c038a557b431d76.js",
+    "precache-manifest.9ed20ca95af21292cc48bec1be9efa56.js": "/precache-manifest.9ed20ca95af21292cc48bec1be9efa56.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.1eb7945e.chunk.css.map": "/static/css/2.1eb7945e.chunk.css.map",
-    "static/css/main.8ff98860.chunk.css.map": "/static/css/main.8ff98860.chunk.css.map",
+    "static/css/main.2adcf404.chunk.css.map": "/static/css/main.2adcf404.chunk.css.map",
     "static/media/Alex.jpg": "/static/media/Alex.9e7098b1.jpg",
     "static/media/Bleo.jpg": "/static/media/Bleo.6162f3fe.jpg",
     "static/media/Livia.jpg": "/static/media/Livia.6312e798.jpg",
