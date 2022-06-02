@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.fbd613d9.chunk.css",
-    "main.js": "/static/js/main.60864220.chunk.js",
-    "main.js.map": "/static/js/main.60864220.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.f5211fb8.js",
-    "runtime~main.js.map": "/static/js/runtime~main.f5211fb8.js.map",
-    "static/css/2.1eb7945e.chunk.css": "/static/css/2.1eb7945e.chunk.css",
-    "static/js/2.c5659332.chunk.js": "/static/js/2.c5659332.chunk.js",
-    "static/js/2.c5659332.chunk.js.map": "/static/js/2.c5659332.chunk.js.map",
-    "static/js/3.89b5aa18.chunk.js": "/static/js/3.89b5aa18.chunk.js",
-    "static/js/3.89b5aa18.chunk.js.map": "/static/js/3.89b5aa18.chunk.js.map",
+    "main.css": "/static/css/main.6a65646c.chunk.css",
+    "main.js": "/static/js/main.b36217be.chunk.js",
+    "main.js.map": "/static/js/main.b36217be.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.6d0a9af9.js",
+    "runtime-main.js.map": "/static/js/runtime-main.6d0a9af9.js.map",
+    "static/css/2.d44bc173.chunk.css": "/static/css/2.d44bc173.chunk.css",
+    "static/js/2.f6f4f5ef.chunk.js": "/static/js/2.f6f4f5ef.chunk.js",
+    "static/js/2.f6f4f5ef.chunk.js.map": "/static/js/2.f6f4f5ef.chunk.js.map",
+    "static/js/3.7bf102e3.chunk.js": "/static/js/3.7bf102e3.chunk.js",
+    "static/js/3.7bf102e3.chunk.js.map": "/static/js/3.7bf102e3.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.110866b0c1276383745dfdda915fb673.js": "/precache-manifest.110866b0c1276383745dfdda915fb673.js",
+    "precache-manifest.9a17de599f1f53abd9c6dd440550428e.js": "/precache-manifest.9a17de599f1f53abd9c6dd440550428e.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/2.1eb7945e.chunk.css.map": "/static/css/2.1eb7945e.chunk.css.map",
-    "static/css/main.fbd613d9.chunk.css.map": "/static/css/main.fbd613d9.chunk.css.map",
+    "static/css/2.d44bc173.chunk.css.map": "/static/css/2.d44bc173.chunk.css.map",
+    "static/css/main.6a65646c.chunk.css.map": "/static/css/main.6a65646c.chunk.css.map",
+    "static/js/2.f6f4f5ef.chunk.js.LICENSE.txt": "/static/js/2.f6f4f5ef.chunk.js.LICENSE.txt",
     "static/media/Alex.jpg": "/static/media/Alex.9e7098b1.jpg",
     "static/media/Bleo.jpg": "/static/media/Bleo.6162f3fe.jpg",
     "static/media/Livia.jpg": "/static/media/Livia.6312e798.jpg",
@@ -23,7 +24,7 @@
     "static/media/Miruna-F.jpg": "/static/media/Miruna-F.8ead6f20.jpg",
     "static/media/Miruna-Z.jpg": "/static/media/Miruna-Z.9d108b45.jpg",
     "static/media/Home.css": "/static/media/fundal-home-page.ec4f2460.jpg",
-    "static/media/index.css": "/static/media/nunito-sans-vietnamese-400-normal.02660d0f.woff2",
+    "static/media/index.css": "/static/media/nunito-sans-vietnamese-400-normal.3177547f.woff2",
     "static/media/logo-asmi.png": "/static/media/logo-asmi.77164e99.png",
     "static/media/logo-bitdefender.png": "/static/media/logo-bitdefender.5707927f.png",
     "static/media/logo-eeml-black.png": "/static/media/logo-eeml-black.8b21e686.png",
@@ -33,5 +34,12 @@
     "static/media/logo-sparktech.png": "/static/media/logo-sparktech.e0dbf083.png",
     "static/media/logo-ub.png": "/static/media/logo-ub.10c9190e.png",
     "static/media/logo1.png": "/static/media/logo1.f078499d.png"
-  }
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6d0a9af9.js",
+    "static/css/2.d44bc173.chunk.css",
+    "static/js/2.f6f4f5ef.chunk.js",
+    "static/css/main.6a65646c.chunk.css",
+    "static/js/main.b36217be.chunk.js"
+  ]
 }
