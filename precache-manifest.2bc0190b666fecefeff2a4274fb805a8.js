@@ -92,12 +92,12 @@ self.__precacheManifest = [
     "url": "/static/media/Alex.9e7098b1.jpg"
   },
   {
-    "revision": "6fd8ffa766741b5d99f3f2690e53500b",
-    "url": "/static/media/lexend-mega-vietnamese-400-normal.6fd8ffa7.woff2"
-  },
-  {
     "revision": "2c7d3145fd5c9749b31c8d43788e5602",
     "url": "/static/media/lexend-mega-all-400-normal.2c7d3145.woff"
+  },
+  {
+    "revision": "6fd8ffa766741b5d99f3f2690e53500b",
+    "url": "/static/media/lexend-mega-vietnamese-400-normal.6fd8ffa7.woff2"
   },
   {
     "revision": "31477775a51b7fceb10c5099e1075282",
@@ -108,16 +108,12 @@ self.__precacheManifest = [
     "url": "/static/media/lexend-mega-latin-400-normal.c20c5ce7.woff2"
   },
   {
-    "revision": "20e47154e74db925e07ade5697e98a17",
-    "url": "/static/media/nunito-sans-cyrillic-400-normal.20e47154.woff2"
-  },
-  {
-    "revision": "e31bbed60cdd9e38b215cf968e1f7e20",
-    "url": "/static/media/nunito-sans-cyrillic-ext-400-normal.e31bbed6.woff2"
-  },
-  {
     "revision": "3177547fe57530a577327327a2e7cfc2",
     "url": "/static/media/nunito-sans-vietnamese-400-normal.3177547f.woff2"
+  },
+  {
+    "revision": "20e47154e74db925e07ade5697e98a17",
+    "url": "/static/media/nunito-sans-cyrillic-400-normal.20e47154.woff2"
   },
   {
     "revision": "9fcb97bd294f3910f343550f08d11bff",
@@ -130,6 +126,10 @@ self.__precacheManifest = [
   {
     "revision": "c38f7fce769cb9e643da42c0fed6633c",
     "url": "/static/media/nunito-sans-latin-ext-400-normal.c38f7fce.woff2"
+  },
+  {
+    "revision": "e31bbed60cdd9e38b215cf968e1f7e20",
+    "url": "/static/media/nunito-sans-cyrillic-ext-400-normal.e31bbed6.woff2"
   },
   {
     "revision": "8dab9b52e578611401188da0b89dadec",
