@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://nitronlp.rocks/sitemap/sitemap-index.xml
-Host: https://nitronlp.rocks
+Sitemap: https://www.nitronlp.rocks/sitemap/sitemap-index.xml
+Host: https://www.nitronlp.rocks
