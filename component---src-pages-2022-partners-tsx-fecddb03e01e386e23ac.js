@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunknitro_language_processing_hackathon=self.webpackChunknitro_language_processing_hackathon||[]).push([[452],{9518:function(n,t,e){e.r(t);var s=e(7782),a=e(5217),i=e(8008),r=e(9418),u=e(5893);t.default=function(){var n=(0,s.useTranslation)().t;return(0,u.jsxs)(a.Z,{children:[(0,u.jsx)(i.Z,{title:n("subtitle1")}),(0,u.jsx)(r.Z,{edition:2022})]})}}}]);
+//# sourceMappingURL=component---src-pages-2022-partners-tsx-fecddb03e01e386e23ac.js.map
