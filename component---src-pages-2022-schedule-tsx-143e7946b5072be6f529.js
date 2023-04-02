@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunknitro_language_processing_hackathon=self.webpackChunknitro_language_processing_hackathon||[]).push([[954],{5478:function(n,t,a){a.r(t);var e=a(7782),s=a(3357),i=a(8008),r=a(5083),u=a(3841),c=a(5893);t.default=function(){var n=(0,e.useTranslation)().t,t=(0,u.Z)(2022);return(0,c.jsxs)(s.Z,{children:[(0,c.jsx)(i.Z,{title:n("title")}),(0,c.jsx)(r.Z,{editionData:t})]})}}}]);
-//# sourceMappingURL=component---src-pages-2022-schedule-tsx-143e7946b5072be6f529.js.map
